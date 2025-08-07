@@ -1,7 +1,7 @@
 {
 	"arizona_pc": {
-		"status": false,
-		"info": "Перенос подключения БД и автообновления скрипта."
+		"status": true,
+		"info": "Технические работы на хостинге."
 	},
 	"arizona_mobile": {
 		"status": false,
