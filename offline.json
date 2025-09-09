@@ -1,6 +1,6 @@
 {
 	"arizona_pc": {
-		"status": false,
+		"status": true,
 		"info": "Технические работы на хостинге."
 	},
 	"arizona_mobile": {
